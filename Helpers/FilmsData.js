@@ -1,4 +1,4 @@
-export default data = [
+export const films = [
   {
     id: 181808,
     vote_average: 7.2,
